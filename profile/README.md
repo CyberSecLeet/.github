@@ -4,6 +4,6 @@
 
 https://cybersecleet.github.io/
 
-Certificate Verificaiton List: https://cybersecleet.github.io/verify.html
+Certificate Verificaiton Link: https://cybersecleet.github.io/verify.html
 
 
