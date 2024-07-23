@@ -4,7 +4,7 @@
 
 https://cybersecleet.github.io/
 
-Certificate Verificaiton Link: https://cybersecleet.github.io/verify.html
+Certificate Verification Link: https://cybersecleet.github.io/verify.html
 
 
 ## EHE050 (Ethical Hacking Expert 050)
