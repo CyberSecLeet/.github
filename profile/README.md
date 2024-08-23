@@ -1,7 +1,6 @@
 # Cyber Sec Leet
 
 
-
 https://cybersecleet.github.io/
 
 Certificate Verification Link: https://cybersecleet.github.io/verify.html
