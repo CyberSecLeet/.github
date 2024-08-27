@@ -2,7 +2,7 @@
 
 **Elevating the Next Generation of Cybersecurity Experts**
 
-[Visit Us](https://cybersecleet.github.io/)  
+**Website:** [Visit Us](https://cybersecleet.github.io/)  
 **Certificate Verification Link:** [Verify Your Certificate](https://cybersecleet.github.io/verify.html)
 
 ## About CyberSecLeet
